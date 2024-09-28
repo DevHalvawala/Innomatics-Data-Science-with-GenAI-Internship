@@ -1,0 +1,38 @@
+item_id,category,Item,Size,Price
+p_001,Veg,Margherita,Regular,109
+p_002,Veg,Margherita,Medium,245
+p_003,Veg,Margherita,Large,455
+p_004,Veg,Double Cheese Margherita,Regular,215
+p_005,Veg,Double Cheese Margherita,Medium,385
+p_006,Veg,Double Cheese Margherita,Large,619
+p_007,Veg,Farm House,Regular,265
+p_008,Veg,Farm House,Medium,469
+p_009,Veg,Farm House,Large,705
+p_010,Veg,Deluxe Veggie,Regular,219
+p_011,Veg,Deluxe Veggie,Medium,385
+p_012,Veg,Deluxe Veggie,Large,619
+p_013,Veg,Cheese N Corn,Regular,179
+p_014,Veg,Cheese N Corn,Medium,319
+p_015,Veg,Cheese N Corn,Large,519
+p_016,Veg,Indi Tandoori Paneer,Regular,305
+p_017,Veg,Indi Tandoori Paneer,Medium,559
+p_018,Veg,Indi Tandoori Paneer,Large,815
+p_019,Non Veg,Chicken Golden Delight,Regular,279
+p_020,Non Veg,Chicken Golden Delight,Medium,499
+p_021,Non Veg,Chicken Golden Delight,Large,729
+p_022,Non Veg,Non Veg Supreme,Regular,365
+p_023,Non Veg,Non Veg Supreme,Medium,609
+p_024,Non Veg,Non Veg Supreme,Large,935
+p_025,Non Veg,Chicken Dominator,Regular,365
+p_026,Non Veg,Chicken Dominator,Medium,609
+p_027,Non Veg,Chicken Dominator,Large,935
+p_028,Non Veg,Pepper Barbecue Chicken,Regular,239
+p_029,Non Veg,Pepper Barbecue Chicken,Medium,419
+p_030,Non Veg,Pepper Barbecue Chicken,Large,629
+p_031,Non Veg,Indi Chicken Tikka,Regular,339
+p_032,Non Veg,Indi Chicken Tikka,Medium,599
+p_033,Non Veg,Indi Chicken Tikka,Large,879
+p_034,Non Veg,Chicken Pepperoni,Regular,365
+p_035,Non Veg,Chicken Pepperoni,Medium,609
+p_036,Non Veg,Chicken Pepperoni,Large,935
+p_037,Veg,Coke,Regular,71
